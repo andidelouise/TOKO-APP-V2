@@ -75,7 +75,7 @@ Untuk menjalankan proyek ini di komputer Anda, ikuti langkah-langkah berikut:
 
 3.  **Setup Database Supabase**
     * Buat proyek baru di [Supabase](https://supabase.com).
-    * Buka **SQL Editor** dan jalankan skrip SQL yang ada di [sini](https://github.com/andidelouise/tokoapp/blob/main/SETUP.sql) untuk membuat semua tabel dan RLS. (Anda perlu membuat file `SETUP.sql` dan menempelkan skrip SQL dari saya sebelumnya ke sana).
+    * Buka **SQL Editor** dan jalankan skrip SQL yang ada di [sini](https://github.com/andidelouise/skrip-code-SQL) untuk membuat semua tabel dan RLS. (Anda perlu membuat file `SETUP.sql` dan menempelkan skrip SQL dari saya sebelumnya ke sana).
 
 4.  **Setup Environment Variables**
     * Buat file `.env.local` di folder root proyek.
