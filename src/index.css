@@ -1,0 +1,4 @@
+/* Impor tiga lapisan dasar Tailwind CSS. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
