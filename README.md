@@ -98,10 +98,10 @@ Untuk menjalankan proyek ini di komputer Anda, ikuti langkah-langkah berikut:
 Anda bisa menggunakan akun berikut untuk mencoba aplikasi:
 
 * **Role Admin**:
-    * **Email**: `admin@toko.com`
+    * **Email**: `admin1@toko.com`
     * **Password**: `password123`
 * **Role Pengguna Biasa**:
-    * **Email**: `user@toko.com`
+    * **Email**: `user1@toko.com`
     * **Password**: `password123`
 
 ---
