@@ -103,6 +103,8 @@ Anda bisa menggunakan akun berikut untuk mencoba aplikasi:
 * **Role Pengguna Biasa**:
     * **Email**: `user1@toko.com`
     * **Password**: `password123`
+ 
+ATAU KALAU TIDAK BISA DAFTAR PENGGUNA BARU SAJA SESUAIKAN ROLE NYA ADMIN / PENGGUNA (BIASA)
 
 ---
 
